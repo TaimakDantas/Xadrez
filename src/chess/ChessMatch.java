@@ -127,7 +127,7 @@ public class ChessMatch {
 		placeNewPiece('b', 2, new Piao(board, Color.BLACK));
 		placeNewPiece('c', 2, new Piao(board, Color.BLACK));
 		placeNewPiece('d', 2, new Piao(board, Color.BLACK));
-		placeNewPiece('e', 2, new Piao(board, Color.BLACK));
+		//placeNewPiece('e', 2, new Piao(board, Color.BLACK));
 		placeNewPiece('f', 2, new Piao(board, Color.BLACK));
 		placeNewPiece('g', 2, new Piao(board, Color.BLACK));
 		placeNewPiece('h', 2, new Piao(board, Color.BLACK));
