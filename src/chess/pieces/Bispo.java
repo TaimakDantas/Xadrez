@@ -22,7 +22,7 @@ public class Bispo extends ChessPiece{
 		Position p = new Position(0, 0);
 		
 	
-	//mw
+	//nw
 	p.setValues(position.getRow() - 1, position.getColumn() - 1);
 	while(getBoard().positionExists(p) && !getBoard().thereIsAPiece(p)) {
 		
